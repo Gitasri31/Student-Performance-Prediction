@@ -34,5 +34,3 @@ The model achieved approximately 89% accuracy. Feature importance analysis shows
 
 ## Conclusion
 The model helps identify key academic factors affecting student performance and can be used for early intervention strategies.
-# Student-Performance-Prediction
-Machine learning project to predict student pass/fail using Decision Tree.
