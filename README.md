@@ -16,6 +16,10 @@ This project uses the **Student Performance Data Set** from Kaggle.
 You can download the dataset here:  
 👉 https://www.kaggle.com/datasets/larsen0966/student-performance-data-set?resource=download
 
+## Requirements
+Install dependencies using:
+pip install -r requirements.txt
+
 ## Dataset
 The dataset includes:
 - Study hours per week
